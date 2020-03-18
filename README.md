@@ -9,3 +9,4 @@
 - **第 2 期**：[**抽象类与接口的区别**](https://github.com/No1Worker/Q-A/issues/2)
 - **第 3 期**：[**Handler相关的问题整理**](https://github.com/No1Worker/Q-A/issues/3)
 - **第 4 期**：[**介绍下单例模式？**](https://github.com/No1Worker/Q-A/issues/4)
+- **第 5 期**：[**简单说说Android事件分发机制？**](https://github.com/No1Worker/Q-A/issues/5)
