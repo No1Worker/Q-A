@@ -12,3 +12,4 @@
 - **第 5 期**：[**简单说说Android事件分发机制？**](https://github.com/No1Worker/Q-A/issues/5)
 - **第 6 期**：[**Java程序是如何执行的？**](https://github.com/No1Worker/Q-A/issues/6)
 - **第 7 期**：[**Java中如何获取明天此刻的时间？**](https://github.com/No1Worker/Q-A/issues/7)
+- **第 8 期**：[**Java内部类总结**](https://github.com/No1Worker/Q-A/issues/8)
