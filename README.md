@@ -13,3 +13,4 @@
 - **第 6 期**：[**Java程序是如何执行的？**](https://github.com/No1Worker/Q-A/issues/6)
 - **第 7 期**：[**Java中如何获取明天此刻的时间？**](https://github.com/No1Worker/Q-A/issues/7)
 - **第 8 期**：[**Java内部类总结**](https://github.com/No1Worker/Q-A/issues/8)
+- **第 9 期**：[**描述View的绘制流程**](https://github.com/No1Worker/Q-A/issues/9)
