@@ -17,4 +17,4 @@
 - **第 10 期**：[**Picasso框架解析**](https://github.com/No1Worker/Q-A/issues/10)
 - **第 11 期**：[**自定义View**](https://github.com/No1Worker/Q-A/issues/11)
 - **第 12 期**：[**SharedPreferences详解**](https://github.com/No1Worker/Q-A/issues/12)
-- **第 12 期**：[**Activity启动流程**](https://github.com/No1Worker/Q-A/issues/13)
+- **第 13 期**：[**Activity启动流程**](https://github.com/No1Worker/Q-A/issues/13)
